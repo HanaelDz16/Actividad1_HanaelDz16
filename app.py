@@ -1,4 +1,4 @@
 import streamlit as st
 
 st.title("Esta es mi app y puro desperte y no estaba soñando")
-st.button("soy gay")
+st.button("Puro rabanito")
