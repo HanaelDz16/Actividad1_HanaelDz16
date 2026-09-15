@@ -1,5 +1,7 @@
 import streamlit as st
 
-st.title("Esta es mi app y puro desperte y no estaba soñando")
-st.button("Puro rabanito")
-st.balloons()
+st.title("Clasificador de temperatura")
+temperatura = st.number_input(
+  "Introduce la temperatura en "C:",
+value=20
+)
