@@ -11,4 +11,4 @@ value=20
  elif 15 <=temperatura <=25:
  st.success("El clima esta templado")
  else:
- st.warning("El clima esta caluroso")
+ st.warning("El clima estaa caluroso")
