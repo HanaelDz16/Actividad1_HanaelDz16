@@ -7,8 +7,8 @@ value=20
 )
 
  if temperatura < 15:
- st.info("El clima esta frio")
- elif 15 <=temperatura <=25:
- st.success("El clima esta templado")
+ st.info    ("El clima esta frio")
+ elif 15 <= temperatura <= 25:
+ st.success    ("El clima esta templado")
  else:
- st.warning("El clima estaa caluroso")
+ st.warning     ("El clima esta caluroso")
