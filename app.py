@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.title("Gráfica de una función lineal")
+st.title("Gráfica de una función lineal Hanael Diaz")
 
 st.write("Modifica los valores de m y b para observar cómo cambia la gráfica.")
 
